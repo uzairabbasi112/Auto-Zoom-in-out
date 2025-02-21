@@ -14,8 +14,8 @@ This project estimates the distance of a face from the camera using **MediaPipe 
 ## 📌 **Installation**  
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://https://github.com/uzairabbasi112/Auto-Zoom-in-out.git
+   cd Auto-Zoom-in-out
    ```
 
 2. **Install Dependencies**  
